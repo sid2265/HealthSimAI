@@ -1,0 +1,5 @@
+{
+  "name": "HealthSim AI",
+  "description": "A predictive machine learning simulation platform for modeling global health interventions and their impacts on mortality, disease, and economics using real-time data synthesis.",
+  "requestFramePermissions": []
+}
